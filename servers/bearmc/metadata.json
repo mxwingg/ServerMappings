@@ -1,19 +1,19 @@
 {
-    "id": "bearmc",
-    "name": "BearMC Network",
-    "website": "https://bearmc.cc/",
-    "store": "https://store.bearmc.cc/",    
+    "id": "veruxpvp",
+    "name": "VeruxPvP Network",
+    "website": "https://veruxpvp.cc/",
+    "store": "https://store.veruxpvp.cc/",    
     "addresses": [
-        "bearmc.cc"
+        "veruxpvp.cc"
     ],
-    "primaryAddress": "bearmc.cc",
+    "primaryAddress": "veruxpvp.cc",
     "minecraftVersions": [
         "1.8.*",
         "1.7.*"
     ],
     "primaryMinecraftVersion": "1.8.9",
-    "primaryColor": "#ff8700",
-    "secondaryColor": "#fff700",
+    "primaryColor": "#FF2900",
+    "secondaryColor": "#FF9200",
     "primaryLanguage": "es-EN",
     "languages": [
         "es-EN"
@@ -27,6 +27,6 @@
         "Survival"
     ],
     "socials": {    
-        "discord": "https://discord.gg/RYmqRbREkY"
+        "discord": "https://discord.gg/Rvj4Z9C5bb"
     }
 }    
